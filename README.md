@@ -36,8 +36,11 @@ This is a web based emulator for MASM.
   * Extend the mini-library
   * Add syntax highlighting
   * Add code formatter
+  * Enable file upload as the source of code
 
 ### December
 
   * Finish implementing the majority of the language
   * Add breakpoints / debugging tools
+  * Use Electron to create a desktop version of this app
+
