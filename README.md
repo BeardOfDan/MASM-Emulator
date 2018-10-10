@@ -43,4 +43,7 @@ This is a web based emulator for MASM.
   * Finish implementing the majority of the language
   * Add breakpoints / debugging tools
   * Use Electron to create a desktop version of this app
+  * Re-evaluate app needs
+    - possibly port the front end over to React
+    - consider extra features
 
